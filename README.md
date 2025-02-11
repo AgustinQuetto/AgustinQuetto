@@ -20,13 +20,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS, Azure
 - **Tools:** Git, GitHub, VSCode, Webpack, Babel
 
-## 📂 Projects
-
-Here are a few of my favorite projects:
-
-- [Project One](https://github.com/AgustinQuetto/project-one): A brief description of what this project does.
-- [Project Two](https://github.com/AgustinQuetto/project-two): A brief description of what this project does.
-
 ## 📝 Blog Posts
 
 I occasionally write about my experiences and learnings. Check out my latest blog posts:
